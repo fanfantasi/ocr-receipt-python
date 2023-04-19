@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+pytesseract
+pdf2image
+openai
+opencv-python
